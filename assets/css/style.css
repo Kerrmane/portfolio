@@ -3,7 +3,7 @@ display:block;
 height:100%;opacity:1;
 visibility:visible
 }
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3{
 font-weight: 700;
 font-size: 25px;
 text-transform: uppercase;
@@ -95,7 +95,7 @@ color: #f4cc3c;
 
 
 /* ******fin de css icone******* */
-
+/* css pour les bar de progress */
 .skills-section
 {background-color:#1a1e23;
 color:#fff;}
@@ -171,5 +171,11 @@ right: 5px;
     width:40% ;
 }
 
-/* ******************************** */
+/*  fin css pour les bar de progress */
+
+/* css pour les certification */
+#certification img {
+    width: 60%;
+    margin: auto;
+}
 
